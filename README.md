@@ -66,7 +66,15 @@
 ##### project 1
 [인공지능 기반 상품 및 인물 사진 컨셉 합성 솔루션](https://github.com/L-yejin/2023-XAI-toyproject/tree/main/project1)
 
-<br/>
-
 ##### project 2
 [디자인 품질 및 오류 검사 솔루션 (이미지 내 글자 크기 확인)](https://github.com/L-yejin/2023-XAI-toyproject/tree/main/project2)
+
+<br/>
+
+## POSTER_SESSION
+#### 활동 기간
+2023.09. ~ (진행중)
+
+#### 활동 내용
+- 논문화를 위한 프로젝트 진행
+- 3주에 한 번씩 팀 별 진행사항 발표
