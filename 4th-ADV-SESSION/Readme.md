@@ -12,4 +12,4 @@
 
 
 ## project 2
-#### [디자인 품질 및 오류 검사 솔루션 (이미지 내 글자 크기 확인)](https://github.com/L-yejin/2023-XAI-toyproject/tree/main/project2)
+#### [디자인 품질 및 오류 검사 솔루션 (이미지 내 글자 크기 확인)](https://github.com/KiSeoupShin/2023_XAI/tree/main/4th-ADV-SESSION/project2)
