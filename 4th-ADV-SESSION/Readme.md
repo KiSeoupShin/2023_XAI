@@ -8,7 +8,7 @@
 ---
 
 ## project 1
-#### [인공지능 기반 상품 및 인물 사진 컨셉 합성 솔루션](https://github.com/L-yejin/2023-XAI-toyproject/tree/main/project1)
+#### [인공지능 기반 상품 및 인물 사진 컨셉 합성 솔루션](https://github.com/KiSeoupShin/2023_XAI/tree/main/4th-ADV-SESSION/project1)
 
 
 ## project 2
